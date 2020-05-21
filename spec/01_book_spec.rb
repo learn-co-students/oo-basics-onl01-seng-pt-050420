@@ -1,3 +1,5 @@
+
+
 describe 'Book' do
   describe '::new' do
     it 'gets initialized with a title' do
